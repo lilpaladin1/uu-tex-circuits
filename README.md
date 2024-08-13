@@ -7,3 +7,4 @@ All credit goes to Jimbno for creating the original sprites and for giving me th
 ## Preview
 
 
+![Preview](https://github.com/lilpaladin1/uu-tex-circuits/blob/main/preview.png?raw=true)
